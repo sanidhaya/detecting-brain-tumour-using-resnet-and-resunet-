@@ -5,4 +5,4 @@
 ##### I used Google-colab to impliment my work cause its free and a pretty powerfull tool to use. Most of the libraries used for machine learning(such as scikit-learn, tensorflow, cv2) are already available in the colaboratory.
 
 ###### here is an image of trained images of brain umour in resnet50
-![alt text]()
+![alt text](detecting-brain-tumour-using-resnet-and-resunet-/github1.PNG)
